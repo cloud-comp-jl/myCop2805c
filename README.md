@@ -1,2 +1,3 @@
 # myCop2805c
-Advanced Java Programming
+
+My attempt to use git/github version control with Eclipse and Java SE
